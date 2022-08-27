@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974481053977",
+    "project_id": "netflix-dbefa",
+    "storage_bucket": "netflix-dbefa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974481053977:android:a69c75a9290f6911dd8d88",
+        "android_client_info": {
+          "package_name": "com.example.dropdownbutton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974481053977-2idntiol2vgbfitfsgqar2riegtu9mrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuUHY2KoectK2b6A93cOkWpZ-jLCGlF_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974481053977-2idntiol2vgbfitfsgqar2riegtu9mrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
